@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a **Cloud & DevOps Engineer** passionate about building scalable, automated, and reliable infrastructure. I specialize in designing end-to-end CI/CD pipelines, cloud-native architectures, and MLOps platforms that bring Machine Learning models from development to production.
+I'm a **Cloud & DevOps Engineer** at **@klency** specializing in Development, DevOps, Cloud and MLOps. I'm passionate about building scalable, automated, and reliable infrastructure. I specialize in designing end-to-end CI/CD pipelines, cloud-native architectures, and MLOps platforms that bring Machine Learning models from development to production.
 
 - Currently building a **full MLOps platform** for AI model deployment on Kubernetes
 - Passionate about **Infrastructure as Code**, GitOps, and cloud-native solutions
