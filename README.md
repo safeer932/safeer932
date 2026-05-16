@@ -19,7 +19,7 @@ I'm a **Cloud & DevOps Engineer** at **@klency** specializing in Development, De
 - Always learning about **Platform Engineering** and emerging DevOps practices
 - Looking to collaborate on **open-source DevOps & MLOps projects**
 - Ask me about **AWS, Terraform, Kubernetes, ArgoCD, Docker, MLflow, MLOps**
-- Fun fact: I automate everything — if I do it twice, I script it
+- Fun fact: I automate everything if I do it twice, I script it
 
 ---
 
