@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+There!+%F0%9F%91%8B;I'm+Ahmad+Safeer;Cloud+%26+DevOps+Engineer;MLOps+%7C+Kubernetes+%7C+AWS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+There!+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;MLOps+%7C+Kubernetes+%7C+AWS;Infrastructure+as+Code+%7C+GitOps" alt="Typing SVG" />
 
 <br/>
 
@@ -18,52 +18,63 @@ I'm a **Cloud & DevOps Engineer** passionate about building scalable, automated,
 - Passionate about **Infrastructure as Code**, GitOps, and cloud-native solutions
 - Always learning about **Platform Engineering** and emerging DevOps practices
 - Looking to collaborate on **open-source DevOps & MLOps projects**
-- Ask me about **AWS, Terraform, Kubernetes, ArgoCD, Docker, MLflow**
+- Ask me about **AWS, Terraform, Kubernetes, ArgoCD, Docker, MLflow, MLOps**
 - Fun fact: I automate everything — if I do it twice, I script it
 
 ---
 
 ## Tech Stack
 
-**Cloud & Infrastructure**
+### ☁️ Cloud & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,linux,bash" />
-</p>
-
-**Containers & Orchestration**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=gcp" title="GCP" />
+  <img src="https://skillicons.dev/icons?i=azure" title="Azure" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=terraform" title="Terraform" />
+  <img src="https://skillicons.dev/icons?i=ansible" title="Ansible" />
+  <img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" />
+  <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" />
+  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash" />
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
-</p>
-
-**CI/CD**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=gitlab,github,githubactions" />
-</p>
-
-**Monitoring & Observability**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
-</p>
-
-**MLOps**
-
-<p align="left">
+  <img src="https://img.shields.io/badge/GitOps-FC6D26?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-**Languages & Tools**
+---
+
+### 🗄️ Databases & Monitoring
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,vim,vscode" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch" title="Elasticsearch" />
+  <img src="https://skillicons.dev/icons?i=prometheus" title="Prometheus" />
+  <img src="https://skillicons.dev/icons?i=grafana" title="Grafana" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+</p>
+
+---
+
+### 💻 Languages & Frameworks
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=django" title="Django" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" />
 </p>
 
 ---
