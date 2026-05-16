@@ -83,12 +83,7 @@ I'm a **Cloud & DevOps Engineer** at **@klency** specializing in Development, De
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=safeer932&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=safeer932&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safeer932&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF" />
+<img width="60%" src="https://streak-stats.demolab.com/?user=safeer932&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
 
 </div>
 
